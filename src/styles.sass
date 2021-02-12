@@ -1,0 +1,72 @@
+/* Color palette */
+
+// https://coolors.co/ffffff-00a7e1-00171f-003459-007ea7
+
+$white: #FFF
+$blue1: #00A7E1
+$blue2: #007EA7
+$blue3: #003459
+$blue4: #00171F
+
+@mixin center
+  display: flex
+  align-items: center
+  justify-content: center
+
+body
+  margin: 0
+
+pre
+  border-radius: 4px
+
+.App
+  padding: 2vh 4vw
+  color: $white
+  font-family: roboto, sans-serif
+  height: 100%
+  min-height: 96vh
+  background: $blue3
+
+.tabs
+  .actions
+    button
+      margin: 1em
+      padding: 1em
+      border: 0
+      outline: 0
+      border-radius: 4px
+      background: $blue1
+      cursor: pointer
+
+      &:hover
+        background: lighten($blue1, 5)
+
+      &.selected
+        background: $blue2
+        cursor: default
+
+  .back-to-top
+    position: fixed
+    bottom: 1rem
+    right: 1rem
+    height: 3rem
+    width: 3rem
+    font-size: 0.75rem
+    background: $blue2
+    border-radius: 50%
+    cursor: pointer
+    +center
+
+    &:hover
+      background: lighten($blue2, 5)
+
+  .index
+    margin-bottom: 10vh
+
+    div
+      margin: 0.5rem
+      cursor: pointer
+
+      &:hover
+        color: darken(white, 30%);
+      
