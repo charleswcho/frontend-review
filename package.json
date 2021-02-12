@@ -9,7 +9,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "3.4.3",
-    "react-syntax-highlighter": "15.2.0",
+    "react-syntax-highlighter": "^15.4.3",
     "sass": "1.27.0",
     "typeface-roboto": "1.1.13"
   },
