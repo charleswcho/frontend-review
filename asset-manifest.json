@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/frontend-review/static/css/main.042d783f.chunk.css",
+    "main.js": "/frontend-review/static/js/main.64ccade7.chunk.js",
+    "main.js.map": "/frontend-review/static/js/main.64ccade7.chunk.js.map",
+    "runtime-main.js": "/frontend-review/static/js/runtime-main.ba47e42c.js",
+    "runtime-main.js.map": "/frontend-review/static/js/runtime-main.ba47e42c.js.map",
+    "static/css/2.b4a350fc.chunk.css": "/frontend-review/static/css/2.b4a350fc.chunk.css",
+    "static/js/2.0ca56f0c.chunk.js": "/frontend-review/static/js/2.0ca56f0c.chunk.js",
+    "static/js/2.0ca56f0c.chunk.js.map": "/frontend-review/static/js/2.0ca56f0c.chunk.js.map",
+    "index.html": "/frontend-review/index.html",
+    "precache-manifest.ef8f9cef2fbe78747bb64ef5ccb533ad.js": "/frontend-review/precache-manifest.ef8f9cef2fbe78747bb64ef5ccb533ad.js",
+    "service-worker.js": "/frontend-review/service-worker.js",
+    "static/css/2.b4a350fc.chunk.css.map": "/frontend-review/static/css/2.b4a350fc.chunk.css.map",
+    "static/css/main.042d783f.chunk.css.map": "/frontend-review/static/css/main.042d783f.chunk.css.map",
+    "static/js/2.0ca56f0c.chunk.js.LICENSE.txt": "/frontend-review/static/js/2.0ca56f0c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frontend-review/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba47e42c.js",
+    "static/css/2.b4a350fc.chunk.css",
+    "static/js/2.0ca56f0c.chunk.js",
+    "static/css/main.042d783f.chunk.css",
+    "static/js/main.64ccade7.chunk.js"
+  ]
+}
